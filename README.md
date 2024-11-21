@@ -1,19 +1,8 @@
-Hey there! 👋 I'm Badr Eddine HABIB.
+Hey, I’m Badr Eddine HABIB! 👋
+I’m an embedded software engineer with a strong passion for Linux development, C++, and networking. I specialize in multimedia pipelines and love tackling complex technical challenges, especially in the open-source and embedded systems space.
 
-🚀 About Me
+What Drives Me:
+I’m all about optimizing software for performance and diving into low-level systems. Linux is my playground, and I’m always eager to learn and collaborate.
 
-I'm passionate about multimedia pipelines and bringing projects to life through innovative software solutions. Currently diving deep into C++ and networking, I’m eager to expand my skill set and tackle exciting, complex challenges.
-
-☕ What Keeps Me Going
-
-With a can of Monster (original flavor, zero sugar!) by my side, I'm ready to take on any coding adventure.
-
-✨ Fun Facts
-
-Pronouns? Rock/Star 🤘
-
-Multimedia and tech are my jam!
-
-📬 Reach Me
-
-Feel free to drop me a message anytime at habibadro872@gmail.com. I’m always open to connecting with fellow tech enthusiasts
+Let’s Connect:
+Feel free to reach out at habibadro872@gmail.com.
